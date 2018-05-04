@@ -1,0 +1,59 @@
+Companion file to slides - A Look at Digital Privacy
+May 15, 2018
+
+Pew Internet Quiz "How much do you know about cybersecurity?": http://www.pewinternet.org/quiz/cybersecurity-knowledge/
+
+Security Education 101: https://sec.eff.org/articles
+- Note of advice: don't touch people's devices. Ever.
+- This guide includes curriculum on passwords, social media settings, threat models, and more!
+
+Threat Model: https://www.wired.com/2017/12/digital-security-guide/
+
+Data Breach Status
+- Have I Been Pwned: https://haveibeenpwned.com/
+
+Passwords
+- XKCD Password Generator: http://preshing.com/20110811/xkcd-password-generator/
+- EFF Diced Generated Passphrases: https://www.eff.org/dice
+- Mozilla password curriculum: https://mozilla.github.io/webmaker-curriculum/ProtectingYourData/session02-secure-passwords.html
+- EFF teaching guide: https://sec.eff.org/topics/passwords
+- Password Manager ($): https://1password.com/
+
+Tracking
+- Lightbeam by Mozilla (Firefox only): https://addons.mozilla.org/en-US/firefox/addon/lightbeam/
+- Lightbeam curriculum: https://mozilla.github.io/webmaker-curriculum/ProtectingYourData/session02-lightbeam.html
+- DuckDuckGo: https://duckduckgo.com/
+- Firefox Containers: https://addons.mozilla.org/en-US/firefox/addon/multi-account-containers/
+- Privacy Badger: https://www.eff.org/privacybadger
+
+Internet Traffic
+- Private Browsing: https://www.howtogeek.com/269265/how-to-enable-private-browsing-on-any-web-browser/
+- Tor: https://www.torproject.org/projects/torbrowser.html.en
+- HTTPS Everywhere: https://www.eff.org/https-everywhere
+- VPN: https://www.pcmag.com/article/352757/you-need-a-vpn-and-heres-why
+- VPN Guide: https://www.pcmag.com/article2/0,2817,2403388,00.asp
+
+Connected Devices* (Alexa, Google Home, etc.)
+*privacy not included
+- Mozilla Buyer's Guide: https://advocacy.mozilla.org/en-US/privacynotincluded
+
+Listening
+- Turn off iPhone Voice Control (bye, Siri): https://support.apple.com/en-us/HT207301
+
+Further Learning
+- #ChoosePrivacy Week: https://chooseprivacyweek.org/
+- Electronic Frontier Foundation: https://www.eff.org/
+- Mozilla Blog
+- Krebs on Security: https://krebsonsecurity.com/
+- Decent Security: https://decentsecurity.com/
+
+Citations
+- Bufete, Tercius. "How to Use Facebook Privacy Settings." Consumer Affairs. April 04, 2018. Accessed April 26, 2018. https://www.consumerreports.org/privacy/facebook-privacy-settings/.
+- CommonSenseEducators. "Facebook Privacy Basics for Teachers." YouTube. February 13, 2018. Accessed May 01, 2018. https://www.youtube.com/watch?v=IUa9xZrWh8Y.
+- CommonSenseEducators. "Twitter Privacy Basics for Teachers." YouTube. February 01, 2018. Accessed May 01, 2018. https://www.youtube.com/watch?v=9wQDb5STUWw&feature=youtu.be. 
+- CommonSenseMedia. "What Is Instagram?" YouTube. August 13, 2015. Accessed May 01, 2018. https://www.youtube.com/watch?v=9_-VKQWrr3A.
+- Consumer Reports. "The Consumer Reports 10-Minute Digital Privacy Tuneup." Consumer Reports. September 20, 2016. Accessed April 27, 2018. https://www.consumerreports.org/privacy/the-consumer-reports-10-minute-digital-privacy-tuneup/. 
+- Elliott, Matt. "If You Have a Twitter Account, Change These Privacy Settings Now." CNET. May 18, 2017. Accessed April 27, 2018. https://www.cnet.com/how-to/change-your-twitter-privacy-settings-now/.
+- "Instagram Privacy: A Tour for New Users." Internet Citizen. January 25, 2017. Accessed April 27, 2018. https://blog.mozilla.org/internetcitizen/2017/01/25/instagrams-privacy-settings/.
+- https://www.consumerreports.org/privacy/66-ways-to-protect-your-privacy-right-now/
+- https://www.consumerreports.org/privacy/ways-to-protect-digital-privacy/
